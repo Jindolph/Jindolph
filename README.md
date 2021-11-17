@@ -10,6 +10,6 @@ Now, I am studying how to create Web App with using different frameworks(ex.. Sp
 Until middle of November, I've learned each of them.
 
 For now, ... i want to learn how to use them in one, by creating(practicing) real projects.
-I have some ideas for creative web apps, what i have needed was techniques to embody those.
+I have some ideas for creative web apps, what i have needed is always techniques to embody those.
 
 goodbye.
